@@ -1,8 +1,12 @@
 myproject
-    - mytasks
-        - mytask1
+    - mytasks : 파이썬 가상 폴더
+        - mytask1 : 프로젝트 별
         - ...
-    - env
+        - env
+    - samples
+        -
+
+
 
 1. 설정 초기화
     전역 사용자명/이메일 구성하기
