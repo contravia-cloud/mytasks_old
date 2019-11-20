@@ -1,3 +1,9 @@
+myproject
+    - mytasks
+        - mytask1
+        - ...
+    - env
+
 1. 설정 초기화
     전역 사용자명/이메일 구성하기
     git config --global user.name "이름"
