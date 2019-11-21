@@ -1,9 +1,9 @@
 myproject
-    - mytasks : 파이썬 가상 폴더
+    - mytasks : 파이썬 가상 폴더 (svn project)
         - mytask1 : 프로젝트 별
         - ...
         - env
-    - samples
+    - samples (svn samples)
         -
 
 
