@@ -2,10 +2,12 @@ myproject
     - mytasks : 파이썬 가상 폴더 (svn project)
         - mytask1 : 프로젝트 별
         - ...
-        - env
+    - mytasks_ven
     - samples (svn samples)
         -
-
+mypersonal
+    - ourfamily
+    
 
 
 1. 설정 초기화
