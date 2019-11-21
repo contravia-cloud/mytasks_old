@@ -3,13 +3,13 @@ workspace
     - mytasks : 파이썬 가상 폴더 (svn/git 대상)
         - mytask1 : 프로젝트 별
         - ...
-    - mytasks_ven
     - samples (svn samples)
         - ...
     - samples_ven
   mypersonal
     - ourfamily
-    
+  
+  mytasks_ven
 
 
 1. 설정 초기화
