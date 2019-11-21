@@ -1,11 +1,13 @@
-myproject
-    - mytasks : 파이썬 가상 폴더 (svn project)
+workspace
+  myproject
+    - mytasks : 파이썬 가상 폴더 (svn/git 대상)
         - mytask1 : 프로젝트 별
         - ...
     - mytasks_ven
     - samples (svn samples)
-        -
-mypersonal
+        - ...
+    - samples_ven
+  mypersonal
     - ourfamily
     
 
