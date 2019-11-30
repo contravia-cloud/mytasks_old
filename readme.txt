@@ -1,3 +1,6 @@
+강의 : https://programmers.co.kr/learn/courses/2
+
+
 workspace
   myproject
     - mytasks : 파이썬 가상 폴더 (svn/git 대상)
