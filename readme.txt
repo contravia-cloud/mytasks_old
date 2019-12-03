@@ -1,3 +1,12 @@
+
+  강의 : https://programmers.co.kr/learn/courses/2
+  생활코딩 : https://opentutorials.org/course/1
+  코딩도장 : https://dojang.io/
+
+  소프트웨어 정부 사이트 : http://www.software.kr/um/main.do
+  구름
+  초중 구름학교 http://goormschool.goorm.io/
+
 workspace
   myproject
     - mytasks : 파이썬 가상 폴더 (svn/git 대상)
@@ -30,16 +39,19 @@ workspace
     git remote -v : 원격 저장소가 있는 곳 확인 (fetch 와 push 장소 표시해줌)
     git remote add origin https://github.com/contravia-cloud/mytasks.git // 로컬과 원격 저장소를 연결한다.
 
-4. 변경사항 검토
-    git status          // 현재 상태를 훑어보고
+4. local로 받아오기
+    git pull origin master 를 하면 해당 로컬 디렉토리에 repository의 내용을 받아올 수 있다.
 
-5. upload
+5. 올리기
+    'git add -> git commit -> git push'
     git add 화일명.확장자  // 깃 주목 리스트에 화일을 추가하고 or
     git add .           // 이 명령은 현재 디렉토리의 모든 화일을 추가할 수 있다.
-
     git commit -m “현재형으로 설명” // 커밋해서 스냅샷을 찍는다.
-
     git push -u origin master  // 깃허브로 푸시한다.
+
+6. 기타
+  - 변경사항 검토
+    git status          // 현재 상태를 훑어보고
 
 참조 : https://nolboo.kim/blog/2013/10/06/github-for-beginner/
 ==============================================================
