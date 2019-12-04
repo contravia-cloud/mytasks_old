@@ -16,14 +16,15 @@ if img_object is None or img_scene is None:
 
 #-- Step 1: Detect the keypoints using SURF Detector, compute the descriptors
 minHessian = 400
-#detector = cv.xfeatures2d_SURF.create(hessianThreshold=minHessian)
+# detector = cv.xfeatures2d_SURF.create(hessianThreshold=minHessian)
 detector = cv.AKAZE_create()
 keypoints_obj, descriptors_obj = detector.detectAndCompute(img_object, None)
 keypoints_scene, descriptors_scene = detector.detectAndCompute(img_scene, None)
 
 #-- Step 2: Matching descriptor vectors with a FLANN based matcher
 # Since SURF is a floating-point descriptor NORM_L2 is used
-matcher = cv.DescriptorMatcher_create(cv.DescriptorMatcher_FLANNBASED)
+# matcher = cv.DescriptorMatcher_create(cv.DescriptorMatcher_FLANNBASED)
+matcher = cv.BFMatcher(cv.NORM_HAMMING)
 knn_matches = matcher.knnMatch(descriptors_obj, descriptors_scene, 2)
 
 #-- Filter matches using the Lowe's ratio test

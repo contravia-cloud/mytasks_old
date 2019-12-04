@@ -18,11 +18,13 @@ def kaze_match(im1_path, im2_path):
 
     # Match the features
     bf = cv2.BFMatcher(cv2.NORM_HAMMING)
-    matches = bf.knnMatch(descs1,descs2, k=2)    # typo fixed
+    matches = bf.match(descs1, descs2)
+    # matches = bf.knnMatch(descs1, descs2, k=2)    # typo fixed
+    print(matches)
 
     # Apply ratio test
     good = []
-    for m,n in matches:
+    for m, n in matches:
         if m.distance < 0.9*n.distance:
             good.append([m])
 
@@ -31,4 +33,4 @@ def kaze_match(im1_path, im2_path):
     cv2.imshow("AKAZE matching", im3)
     cv2.waitKey(0)
 
-kaze_match('graf1.png', 'graf3.png')
+kaze_match('img/graf1.png', 'img/graf3.png')
