@@ -48,8 +48,10 @@ for i in range(len(good_matches)):
     scene[i,0] = keypoints_scene[good_matches[i].trainIdx].pt[0]
     scene[i,1] = keypoints_scene[good_matches[i].trainIdx].pt[1]
 
-H, _ =  cv.findHomography(obj, scene, cv.RANSAC)
-
+# H, _ =  cv.findHomography(obj, scene, cv.RANSAC)
+H, _ =  cv.estimateAffine2D(obj, scene, cv.RANSAC)
+add_h = np.array([0,0,0])
+H = np.vstack([H, add_h])
 #-- Get the corners from the image_1 ( the object to be "detected" )
 obj_corners = np.empty((4,1,2), dtype=np.float32)
 obj_corners[0,0,0] = 0
