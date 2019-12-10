@@ -7,6 +7,10 @@
   구름
   초중 구름학교 http://goormschool.goorm.io/
 
+주피터 테마 변경 : pip install jupyterthemes
+                jt -l (테마 리스트)
+                jt -t chesterish (
+
 workspace
   myproject
     - mytasks : 파이썬 가상 폴더 (svn/git 대상)
