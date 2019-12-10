@@ -9,7 +9,8 @@
 
 주피터 테마 변경 : pip install jupyterthemes
                 jt -l (테마 리스트)
-                jt -t chesterish (
+                jt -t oceans16 (변경)
+                jt -r (기본)
 
 workspace
   myproject
