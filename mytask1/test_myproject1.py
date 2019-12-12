@@ -1,1 +1,0 @@
-print("asagit pull origin 브런치명 --allow-unrelated-historiesf")
