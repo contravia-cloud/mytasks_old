@@ -7,6 +7,9 @@
   구름
   초중 구름학교 http://goormschool.goorm.io/
   
+  서적 사이트 : https://wikidocs.net/
+  
+  
   Jupyter notebook
   데이터 사이언스 스쿨(데이터 과학을 위한 딥러닝): https://datascienceschool.net/view-notebook/94038f17bb2b4bc8b83e00d1a1ad3eb9/
   데이터 사이언스 스쿨(데이터 과학을 위한 파이썬기초): https://datascienceschool.net/view-notebook/39569f0132044097a15943bd8f440ca5/
