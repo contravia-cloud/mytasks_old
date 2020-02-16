@@ -8,7 +8,7 @@ import cv2
 import time
 import matplotlib.pyplot as plt
 
-img = cv2.imread('img/lena.jpg')#, -1)
+img = cv2.imread('img/2222.jpg')#, -1)
 img = cv2.resize(img, (224, 224))
 
 start = time.time()
