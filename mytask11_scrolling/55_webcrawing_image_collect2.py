@@ -45,20 +45,17 @@ result_soup = BeautifulSoup(result_html,'html.parser')
 img_tag = result_soup.find_all("img")
 type(img_tag)
 print(img_tag)
-#image_url = img_tag[10]["data-source"]
-
-# 개 이미지 파일 다운로드
-
-#urlretrieve(image_url, './result/endmill.jpg')
 
 for i in range(0,1000):
     try:
-        image_url = img_tag[i]["data-source"]
-        urlretrieve(image_url, './result/endmill_{}.jpg'.format(i))
+        # image_url = img_tag[i]["data-source"]
+        image_url = img_tag[i]["src"]
+        urlretrieve(image_url, './{}/endmill_{}.jpg'.format(searchterm, i))
+        print(image_url)
     except Exception as e:
         print(i, end=", ")
         print(e)
 
 print(succounter, "succesfully downloaded")
-browser.close()
+# browser.close()
 
