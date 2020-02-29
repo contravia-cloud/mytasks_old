@@ -173,13 +173,24 @@ if __name__ == "__main__":
 			
 			file_open.write(img_buff)
 
-			print(byref(img_buff))
-			print(id(img_buff))
-			print(img_buff)
-			print(cast(img_buff, py_object).value)
-			# print(c_ushort.from_address(id(img_buff)))
+			# print(byref(img_buff))
+			# print(id(img_buff))
+			
+			aaa = np.array(img_buff)
+			aaa = aaa.reshape(5760,640) 
+			
+			cv2.imshow('test', aaa)
+			cv2.waitKey()
+			cv2.destroyAllWindows
+
+			# inputVideo = cv2.VideoCapture(img_buff)
+			# fourcc = int(inputVideo.get(cv2.cv.CV_CAP_PROP_FOURCC))
+			
+			# cv2.imshow('test', img_buff)
+			# print(c_ubyte.from_address(id(img_buff)))
+			# print(c_ubyte.from_address(byref(img_buff)))
 			# print(imgpointer.contents.value)
-			# print(repr(img_buff))
+			
 
 			# imgshow_map = np.memmap(img_buff, dtype = np.uint16, shape = (960,1280,3)) 
 			# cv2.imshow('test', imgshow_map)

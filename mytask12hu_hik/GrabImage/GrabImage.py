@@ -4,7 +4,8 @@ import sys
 import threading
 import os
 import termios
-
+import cv2
+import numpy as np
 from ctypes import *
 
 # sys.path.append("../MvImport")
@@ -24,8 +25,17 @@ def work_thread(cam=0, pData=0, nDataSize=0):
 		if ret == 0:
 			print ("get one frame: Width[%d], Height[%d], PixelType[0x%x], nFrameNum[%d]"  % (stFrameInfo.nWidth, stFrameInfo.nHeight, stFrameInfo.enPixelType,stFrameInfo.nFrameNum))
 			# aaa = pointer(pData)
-			# print(aaa)
-			print (pData)
+			bbb = byref(pData)
+			print(bbb)
+
+			aaa = np.array(pData)
+			print(aaa)
+			# aaa = aaa.reshape(5760,640) 
+
+			# cv2.imshow('test', aaa)
+			# cv2.waitKey()
+			# cv2.destroyAllWindows
+
 		else:
 			print ("no data[0x%x]" % ret)
 		if g_bExit == True:

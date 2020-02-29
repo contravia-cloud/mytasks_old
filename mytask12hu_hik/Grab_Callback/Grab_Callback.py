@@ -4,7 +4,8 @@ import sys
 import copy
 import os
 import termios
-
+import cv2
+import numpy as np
 from ctypes import *
 
 sys.path.append("../MvImport")
@@ -23,10 +24,18 @@ def image_callback(pData, pFrameInfo, pUser):
 		stFrameInfo = cast(pFrameInfo, POINTER(MV_FRAME_OUT_INFO_EX)).contents
 		if stFrameInfo:
 			print ("get one frame: Width[%d], Height[%d], nFrameNum[%d]" % (stFrameInfo.nWidth, stFrameInfo.nHeight, stFrameInfo.nFrameNum))
-			print (pData.contents.value)
-			print (pData)
-			print (id(pData))
+			# print (pData.contents.value)
+			# print (pData)
+			# print (dir(pData))
 			
+			aaa = np.array(pData)
+			aaa = aaa.reshape(5760,640) 
+
+			# cv2.imshow('test', aaa)
+			# cv2.waitKey()
+			# cv2.destroyAllWindows
+
+
 
 CALL_BACK_FUN = FrameInfoCallBack(image_callback)
 
