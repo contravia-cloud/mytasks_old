@@ -1,3 +1,4 @@
+  data:text/html, <body contenteditable style="font: 2rem/1.5 monospace;max-width:60rem;margin:0 auto;padding:4rem;"> 
 
   강의 : https://programmers.co.kr/learn/courses/2
   생활코딩 : https://opentutorials.org/course/1
