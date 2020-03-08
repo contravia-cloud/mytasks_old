@@ -1,176 +1,166 @@
 
-
-
-
-
-
-
-
-
-
-
 <lists>
-<list_total_count>35</list_total_count>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[상]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   3]]></UNIT_QTY>
-<U_NAME><![CDATA[   3키로상자]]></U_NAME>
-<AV_P_A><![CDATA[11435]]></AV_P_A>
-<PAV_P_A><![CDATA[15466]]></PAV_P_A>
-<PAV_PY_A><![CDATA[21891]]></PAV_PY_A>
-<A_B><![CDATA[73.9363765679555153239363765679555153239]]></A_B>
-<A_C><![CDATA[52.2360787538257731487826047234023114522]]></A_C>
-<E_NAME><![CDATA[상]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[1]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[중]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   3]]></UNIT_QTY>
-<U_NAME><![CDATA[   3키로상자]]></U_NAME>
-<AV_P_A><![CDATA[7236]]></AV_P_A>
-<PAV_P_A><![CDATA[9881]]></PAV_P_A>
-<PAV_PY_A><![CDATA[17031]]></PAV_PY_A>
-<A_B><![CDATA[73.2314543062443072563505718044732314543]]></A_B>
-<A_C><![CDATA[42.4872291703364453056191650519640655276]]></A_C>
-<E_NAME><![CDATA[중]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[2]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[하]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   3]]></UNIT_QTY>
-<U_NAME><![CDATA[   3키로상자]]></U_NAME>
-<AV_P_A><![CDATA[5098]]></AV_P_A>
-<PAV_P_A><![CDATA[6480]]></PAV_P_A>
-<PAV_PY_A><![CDATA[11062]]></PAV_PY_A>
-<A_B><![CDATA[78.6728395061728395061728395061728395062]]></A_B>
-<A_C><![CDATA[46.085698788645814500090399566082082806]]></A_C>
-<E_NAME><![CDATA[하]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[3]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[특]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
-<U_NAME><![CDATA[   5키로상자]]></U_NAME>
-<AV_P_A><![CDATA[19049]]></AV_P_A>
-<PAV_P_A><![CDATA[17772]]></PAV_P_A>
-<PAV_PY_A><![CDATA[23076]]></PAV_PY_A>
-<A_B><![CDATA[107.185460274589241503488633805986945757]]></A_B>
-<A_C><![CDATA[82.5489686254116831339920263477205754897]]></A_C>
-<E_NAME><![CDATA[특]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[0]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[상]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
-<U_NAME><![CDATA[   5키로상자]]></U_NAME>
-<AV_P_A><![CDATA[11955]]></AV_P_A>
-<PAV_P_A><![CDATA[12087]]></PAV_P_A>
-<PAV_PY_A><![CDATA[15931]]></PAV_PY_A>
-<A_B><![CDATA[98.9079175974187143211715065773144700918]]></A_B>
-<A_C><![CDATA[75.0423702215805661917017136400728140104]]></A_C>
-<E_NAME><![CDATA[상]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[1]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[중]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
-<U_NAME><![CDATA[   5키로상자]]></U_NAME>
-<AV_P_A><![CDATA[8261]]></AV_P_A>
-<PAV_P_A><![CDATA[8266]]></PAV_P_A>
-<PAV_PY_A><![CDATA[10664]]></PAV_PY_A>
-<A_B><![CDATA[99.9395112509073312363900314541495281878]]></A_B>
-<A_C><![CDATA[77.4662415603900975243810952738184546137]]></A_C>
-<E_NAME><![CDATA[중]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[2]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[하]]></G_NAME_A>
-<UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
-<U_NAME><![CDATA[   5키로상자]]></U_NAME>
-<AV_P_A><![CDATA[5712]]></AV_P_A>
-<PAV_P_A><![CDATA[5574]]></PAV_P_A>
-<PAV_PY_A><![CDATA[6884]]></PAV_PY_A>
-<A_B><![CDATA[102.475780409041980624327233584499461787]]></A_B>
-<A_C><![CDATA[82.9750145264381173736199883788495061011]]></A_C>
-<E_NAME><![CDATA[하]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[3]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[특]]></G_NAME_A>
-<UNIT_QTY><![CDATA[  10]]></UNIT_QTY>
-<U_NAME><![CDATA[  10키로상자]]></U_NAME>
-<AV_P_A><![CDATA[19920]]></AV_P_A>
-<PAV_P_A><![CDATA[20604]]></PAV_P_A>
-<PAV_PY_A><![CDATA[60000]]></PAV_PY_A>
-<A_B><![CDATA[96.6802562609202096680256260920209668026]]></A_B>
-<A_C><![CDATA[33.2]]></A_C>
-<E_NAME><![CDATA[특]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[0]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[상]]></G_NAME_A>
-<UNIT_QTY><![CDATA[  10]]></UNIT_QTY>
-<U_NAME><![CDATA[  10키로상자]]></U_NAME>
-<AV_P_A><![CDATA[14672]]></AV_P_A>
-<PAV_P_A><![CDATA[14535]]></PAV_P_A>
-<PAV_PY_A><![CDATA[26599]]></PAV_PY_A>
-<A_B><![CDATA[100.942552459580323357413140694874441004]]></A_B>
-<A_C><![CDATA[55.1599684198654084740027820594759201474]]></A_C>
-<E_NAME><![CDATA[상]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[1]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
-<list>
-<PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
-<PUM_CD><![CDATA[41500]]></PUM_CD>
-<G_NAME_A><![CDATA[중]]></G_NAME_A>
-<UNIT_QTY><![CDATA[  10]]></UNIT_QTY>
-<U_NAME><![CDATA[  10키로상자]]></U_NAME>
-<AV_P_A><![CDATA[10613]]></AV_P_A>
-<PAV_P_A><![CDATA[11280]]></PAV_P_A>
-<PAV_PY_A><![CDATA[17136]]></PAV_PY_A>
-<A_B><![CDATA[94.0868794326241134751773049645390070922]]></A_B>
-<A_C><![CDATA[61.9339402427637721755368814192343604108]]></A_C>
-<E_NAME><![CDATA[중]]></E_NAME>
-<F_NAME><![CDATA[키로상자]]></F_NAME>
-<GRADE_CD><![CDATA[2]]></GRADE_CD>
-<UNIT_CD><![CDATA[01]]></UNIT_CD>
-</list>
+    <list_total_count>35</list_total_count>
+    <list>
+        <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+        <PUM_CD><![CDATA[41500]]></PUM_CD>
+        <G_NAME_A><![CDATA[상]]></G_NAME_A>
+        <UNIT_QTY><![CDATA[   3]]></UNIT_QTY>
+        <U_NAME><![CDATA[   3키로상자]]></U_NAME>
+        <AV_P_A><![CDATA[11435]]></AV_P_A>
+        <PAV_P_A><![CDATA[15466]]></PAV_P_A>
+        <PAV_PY_A><![CDATA[21891]]></PAV_PY_A>
+        <A_B><![CDATA[73.9363765679555153239363765679555153239]]></A_B>
+        <A_C><![CDATA[52.2360787538257731487826047234023114522]]></A_C>
+        <E_NAME><![CDATA[상]]></E_NAME>
+        <F_NAME><![CDATA[키로상자]]></F_NAME>
+        <GRADE_CD><![CDATA[1]]></GRADE_CD>
+        <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+        <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+        <PUM_CD><![CDATA[41500]]></PUM_CD>
+        <G_NAME_A><![CDATA[중]]></G_NAME_A>
+        <UNIT_QTY><![CDATA[   3]]></UNIT_QTY>
+        <U_NAME><![CDATA[   3키로상자]]></U_NAME>
+        <AV_P_A><![CDATA[7236]]></AV_P_A>
+        <PAV_P_A><![CDATA[9881]]></PAV_P_A>
+        <PAV_PY_A><![CDATA[17031]]></PAV_PY_A>
+        <A_B><![CDATA[73.2314543062443072563505718044732314543]]></A_B>
+        <A_C><![CDATA[42.4872291703364453056191650519640655276]]></A_C>
+        <E_NAME><![CDATA[중]]></E_NAME>
+        <F_NAME><![CDATA[키로상자]]></F_NAME>
+        <GRADE_CD><![CDATA[2]]></GRADE_CD>
+        <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[하]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[   3]]></UNIT_QTY>
+    <U_NAME><![CDATA[   3키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[5098]]></AV_P_A>
+    <PAV_P_A><![CDATA[6480]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[11062]]></PAV_PY_A>
+    <A_B><![CDATA[78.6728395061728395061728395061728395062]]></A_B>
+    <A_C><![CDATA[46.085698788645814500090399566082082806]]></A_C>
+    <E_NAME><![CDATA[하]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[3]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[특]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
+    <U_NAME><![CDATA[   5키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[19049]]></AV_P_A>
+    <PAV_P_A><![CDATA[17772]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[23076]]></PAV_PY_A>
+    <A_B><![CDATA[107.185460274589241503488633805986945757]]></A_B>
+    <A_C><![CDATA[82.5489686254116831339920263477205754897]]></A_C>
+    <E_NAME><![CDATA[특]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[0]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[상]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
+    <U_NAME><![CDATA[   5키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[11955]]></AV_P_A>
+    <PAV_P_A><![CDATA[12087]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[15931]]></PAV_PY_A>
+    <A_B><![CDATA[98.9079175974187143211715065773144700918]]></A_B>
+    <A_C><![CDATA[75.0423702215805661917017136400728140104]]></A_C>
+    <E_NAME><![CDATA[상]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[1]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[중]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
+    <U_NAME><![CDATA[   5키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[8261]]></AV_P_A>
+    <PAV_P_A><![CDATA[8266]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[10664]]></PAV_PY_A>
+    <A_B><![CDATA[99.9395112509073312363900314541495281878]]></A_B>
+    <A_C><![CDATA[77.4662415603900975243810952738184546137]]></A_C>
+    <E_NAME><![CDATA[중]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[2]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[하]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[   5]]></UNIT_QTY>
+    <U_NAME><![CDATA[   5키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[5712]]></AV_P_A>
+    <PAV_P_A><![CDATA[5574]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[6884]]></PAV_PY_A>
+    <A_B><![CDATA[102.475780409041980624327233584499461787]]></A_B>
+    <A_C><![CDATA[82.9750145264381173736199883788495061011]]></A_C>
+    <E_NAME><![CDATA[하]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[3]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[특]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[  10]]></UNIT_QTY>
+    <U_NAME><![CDATA[  10키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[19920]]></AV_P_A>
+    <PAV_P_A><![CDATA[20604]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[60000]]></PAV_PY_A>
+    <A_B><![CDATA[96.6802562609202096680256260920209668026]]></A_B>
+    <A_C><![CDATA[33.2]]></A_C>
+    <E_NAME><![CDATA[특]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[0]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[상]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[  10]]></UNIT_QTY>
+    <U_NAME><![CDATA[  10키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[14672]]></AV_P_A>
+    <PAV_P_A><![CDATA[14535]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[26599]]></PAV_PY_A>
+    <A_B><![CDATA[100.942552459580323357413140694874441004]]></A_B>
+    <A_C><![CDATA[55.1599684198654084740027820594759201474]]></A_C>
+    <E_NAME><![CDATA[상]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[1]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
+    <list>
+    <PUM_NM_A><![CDATA[감귤]]></PUM_NM_A>
+    <PUM_CD><![CDATA[41500]]></PUM_CD>
+    <G_NAME_A><![CDATA[중]]></G_NAME_A>
+    <UNIT_QTY><![CDATA[  10]]></UNIT_QTY>
+    <U_NAME><![CDATA[  10키로상자]]></U_NAME>
+    <AV_P_A><![CDATA[10613]]></AV_P_A>
+    <PAV_P_A><![CDATA[11280]]></PAV_P_A>
+    <PAV_PY_A><![CDATA[17136]]></PAV_PY_A>
+    <A_B><![CDATA[94.0868794326241134751773049645390070922]]></A_B>
+    <A_C><![CDATA[61.9339402427637721755368814192343604108]]></A_C>
+    <E_NAME><![CDATA[중]]></E_NAME>
+    <F_NAME><![CDATA[키로상자]]></F_NAME>
+    <GRADE_CD><![CDATA[2]]></GRADE_CD>
+    <UNIT_CD><![CDATA[01]]></UNIT_CD>
+    </list>
 </lists>
 
 
