@@ -15,6 +15,9 @@ params = {'id': '2697',
           'p_jjymd': '20190213',
           'p_pos_gubun': '1',
           'pum_nm': '귤'}
+# params.setdefault('f', 100)
+# print(params)
+
 res = requests.get(URL, params=params)
 tree = ElementTree.fromstring(res.content)
 # tree = elemTree.parse('./dataOpen.xml')
