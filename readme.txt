@@ -85,3 +85,19 @@ git clone https://github.com/contravia-cloud/mytasks.git
 git pull과 git fetch로 받을수 있습니다.
 git pull // 코드를 받아와 변경점을 merge한다.
 git fetch // 코드를 받아온다.
+===========================================================
+R 설치
+1. https://vvwwvw.tistory.com/11 참조
+2. R 저장소 추가 
+   :sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
+3. 우분투 keyring에 R 추가
+   :gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9
+   :gpg -a --export E084DAB9 | sudo apt-key add -
+4. R base 설치
+   : sudo apt-get update
+   : sudo apt-get install r-base r-base-dev
+5. Jupyter 연결
+   : R 실행
+   : > install.packages(c('repr', 'IRdisplay', 'IRkernel'), type = 'source')
+   :R kernel을 Jupyter에 등록 > IRkernel::installspec()
+
