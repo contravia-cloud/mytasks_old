@@ -31,11 +31,10 @@ def mosaic(filename, detection_result):
         y = int(face['y']*image.height)
         h = int(face['h']*image.height)
         box = image.crop((x,y,x+w, y+h))
-        box = box.resize((20,20), Image.NEAREST).resize((w,h), Image.NEAREST)
+        box = box.resize((1,1), Image.NEAREST).resize((w,h), Image.NEAREST)
         image.paste(box, (x,y,x+w, y+h))
 
     return image
-
 
 
 if __name__ == "__main__":
