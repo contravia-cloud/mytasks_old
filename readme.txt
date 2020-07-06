@@ -14,6 +14,9 @@
   모두를 위한 딥러닝1(강의) : https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
   모두를 위한 딥러닝2(강의) : https://www.youtube.com/watch?v=7eldOrjQVi0&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&index=2&t=0s
   
+  데이터 사이언스 커리큘럼 : https://github.com/hero4earth/road_of_DS/blob/master/curriculum_road_of_ds.md
+  
+  
   Resnet50
   https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5
   
