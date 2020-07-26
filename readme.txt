@@ -17,6 +17,9 @@
   데이터 사이언스 커리큘럼 : https://github.com/hero4earth/road_of_DS/blob/master/curriculum_road_of_ds.md
   
   
+  대학수료 강좌(영미)  https://www.coursera.org/browse/computer-science/software-development
+  
+  
   Resnet50
   https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5
   
